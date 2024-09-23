@@ -1,5 +1,5 @@
 
-// Bubble Source (CUADRATICO)
+// Bubble Sort (CUADRATICO)
 
 // [2, 5, 8, 12] : Xi <= Xi +1
 // 2 es mas grande  que 5, no no es, 5 es mas grande que 8, no no es, 8 es mayor de 12, no no es
