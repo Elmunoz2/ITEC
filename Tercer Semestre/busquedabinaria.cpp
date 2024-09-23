@@ -12,7 +12,7 @@ int binarySearch(vector<int>& vec, int target) {
             return vec[i]; // Devolvemos el primer número mayor que el valor dado
         }
     }
-    return -1; // Si no se encuentra ningún número mayor, devolvemos -1
+    return -1; // No hay
 }
 
 int main() {
